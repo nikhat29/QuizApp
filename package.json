@@ -2,7 +2,7 @@
   "name": "quizapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikhat29.github.io/QuizApp",
+  "homepage": "https://nikhat29.github.io/quizapp",
   "dependencies": {
     "@mdi/font": "^7.4.47",
     "@mdi/js": "^7.4.47",
