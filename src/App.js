@@ -7,11 +7,11 @@ import Quiz from "./Components/Quiz";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/QuizApp">
         <Routes>
-          <Route path="/" exact element={<Home/>}/>
-          <Route path="/play/instructions" exact element={<QuizInstructions/>}/>
-          <Route path="/play" exact element={<Quiz/>}/>
+          <Route  path="/" element={<Home/>}/>
+          <Route path="/play/instructions" element={<QuizInstructions/>}/>
+          <Route path="/play" element={<Quiz/>}/>
         </Routes>
       </Router>
     </div>
