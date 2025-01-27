@@ -131,7 +131,7 @@ Feel free to fork the project and submit pull requests for improvements, bug fix
 - Write clean, well-documented code.
 - Make sure your changes do not break existing functionality.
 
-- ## Author
+## Author
 
 - [Nikhat Ali](https://github.com/nikhat29)
 
